@@ -1,2 +1,0 @@
-# naujienos
-Naujienų portalo prototipas
